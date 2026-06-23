@@ -4,7 +4,12 @@
 
 # 👋 Hi, I'm Sasha Andriianov
 
+
+
 ### ⚛️ React Frontend Developer
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUweTQ0a25ncHZ0NmRnNW9rMmg1eW9qOWlpM2h6bTliNGIyNnVrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="450"/>
+</p>
 
 I build modern, responsive and fast web applications using React.
 
@@ -23,9 +28,8 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400"/>
-</p>
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400"/>
+
 
 ![typing](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
