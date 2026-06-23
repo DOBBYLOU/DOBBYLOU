@@ -1,5 +1,5 @@
 <p align="center">
-  ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 # 👋 Hi, I'm Sasha Andriianov
