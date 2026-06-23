@@ -23,6 +23,9 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 🧰 Tech Stack
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400"/>
+</p>
 
 ![typing](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
