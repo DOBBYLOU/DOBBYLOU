@@ -12,7 +12,7 @@ I build modern, responsive and fast web applications using React.
 
 ## 🚀 About Me
 <p align="center">
-  ![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="400"/>
 </p>
 
 - 💻 Frontend developer focused on React ecosystem  
