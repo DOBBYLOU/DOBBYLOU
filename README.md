@@ -1,4 +1,6 @@
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</p>
 
 # 👋 Hi, I'm Sasha Andriianov
 
@@ -9,8 +11,9 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 🚀 About Me
-![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
-
+<p align="center">
+  ![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+</p>
 
 - 💻 Frontend developer focused on React ecosystem  
 - 🎯 Interested in UI/UX, performance and clean architecture  
