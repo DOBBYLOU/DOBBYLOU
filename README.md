@@ -28,9 +28,9 @@ I build modern, responsive and fast web applications using React.
 
 ## 📂 Projects
 
-- 🌦 Weather App — React + API integration  
-- 🛒 Mini E-commerce — cart, products, filters  
-- 📊 Dashboard UI — analytics interface  
+- 🌦 Weather App — React + API integration  https://github.com/DOBBYLOU/WeatherApp.git
+- 📊 Mini Admin panel +Account, localstorage backend  
+- 💻 Single-page sites  
 
 *(Add links to your repos here)*
 
