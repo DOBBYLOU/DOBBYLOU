@@ -62,8 +62,8 @@ I build modern, responsive and fast web applications using React.
 
 
 - 📩 Email: Gn8282557@gmail.com
-- 💼 Fiverr: [your profile link  ](https://www.fiverr.com/s/Gz7Nlaz)
-- 🌐 Portfolio: [your website link  ](https://my-portfolio-qqas.vercel.app/)
+- 💼 Fiverr: https://www.fiverr.com/s/Gz7Nlaz
+- 🌐 Portfolio: https://my-portfolio-qqas.vercel.app/
 
 ---
 
