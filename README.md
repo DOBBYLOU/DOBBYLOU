@@ -1,3 +1,5 @@
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 👋 Hi, I'm Sasha Andriianov
 
 ### ⚛️ React Frontend Developer
@@ -7,8 +9,8 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 🚀 About Me
+![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
 
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 - 💻 Frontend developer focused on React ecosystem  
 - 🎯 Interested in UI/UX, performance and clean architecture  
@@ -47,7 +49,7 @@ I build modern, responsive and fast web applications using React.
 
 ## 📫 Contact Me
 
-![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+
 
 - 📩 Email: Gn8282557@gmail.com
 - 💼 Fiverr: [your profile link  ](https://www.fiverr.com/s/Gz7Nlaz)
