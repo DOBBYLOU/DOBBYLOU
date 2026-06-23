@@ -8,6 +8,8 @@ I build modern, responsive and fast web applications using React.
 
 ## 🚀 About Me
 
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 - 💻 Frontend developer focused on React ecosystem  
 - 🎯 Interested in UI/UX, performance and clean architecture  
 - 🌍 Open to freelance and remote opportunities  
@@ -16,6 +18,8 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 🧰 Tech Stack
+
+![typing](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -28,11 +32,10 @@ I build modern, responsive and fast web applications using React.
 
 ## 📂 Projects
 
-- 🌦 Weather App — React + API integration  https://github.com/DOBBYLOU/WeatherApp.git
-- 📊 Mini Admin panel +Account, localstorage backend  
-- 💻 Single-page sites  
+- 🌦 Weather App — React + API integration:  https://github.com/DOBBYLOU/WeatherApp.git
+- 📊 Mini Admin panel — +Account + localstorage backend:  https://github.com/DOBBYLOU/CourseAdminWeb.git
+- 💻 Single-page sites:  https://github.com/DOBBYLOU/Velocity.git
 
-*(Add links to your repos here)*
 
 ---
 
@@ -43,6 +46,8 @@ I build modern, responsive and fast web applications using React.
 ---
 
 ## 📫 Contact Me
+
+![react](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
 
 - 📩 Email: Gn8282557@gmail.com
 - 💼 Fiverr: [your profile link  ](https://www.fiverr.com/s/Gz7Nlaz)
