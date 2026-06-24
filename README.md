@@ -53,7 +53,7 @@ I build modern, responsive and fast web applications using React.
 
 ## 📈 GitHub Stats
 
-![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOBBYLOU&show_icons=true&theme=tokyonight)
 
 ---
 
