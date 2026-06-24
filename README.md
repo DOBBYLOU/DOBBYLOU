@@ -45,8 +45,8 @@ I build modern, responsive and fast web applications using React.
 ## 📂 Projects
 
 - 🌦 Weather App — React + API integration:  https://github.com/DOBBYLOU/WeatherApp.git
-- 📊 Mini Admin panel — +Account + localstorage backend:  https://github.com/DOBBYLOU/CourseAdminWeb.git
-- 💻 Single-page sites:  https://github.com/DOBBYLOU/Velocity.git
+- 📊 Mini Admin panel — + Account + localstorage backend:  https://github.com/DOBBYLOU/CourseAdminWeb.git
+- 💻 Single-page site:  https://github.com/DOBBYLOU/Velocity.git
 
 
 ---
